@@ -1,0 +1,1 @@
+Write code by php, html, css, javascript allow user input following columns: ID, Name, Phone, Price, Address, Description, Url. It has Save button to save input data to Urls.txt file. Data will be load from Urls.txt file to a table, in the table also has delete button in each row to let me delete row by ID.
